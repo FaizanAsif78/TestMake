@@ -1,0 +1,645 @@
+/* jameel nori google font */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Nastaliq+Urdu:wght@500;600;700&display=swap');
+.urdufont h6{
+    font-family: 'Noto Nastaliq Urdu', serif;
+}
+.quesmargin{
+    margin-top: -29px;
+}
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.mainhead {
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.main1 {
+    /* background-color: aqua; */
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.box1 {
+    text-align: center;
+    background-color: #c8c8c8;
+    padding: 30px 0px;
+    border-radius: 10px;
+    transition: 0.8s ease;
+    color: black;
+}
+
+.box1:hover {
+    text-align: center;
+    background-color: rgb(94, 13, 13);
+    border-radius: 10px;
+    color: white;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.box1 h1 {
+    font-size: 30px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+
+.box1 h3 {
+    text-transform: capitalize;
+    font-size: 18px;
+    margin-bottom: 20px;
+
+}
+
+.box1 h5 {
+    text-transform: capitalize;
+    margin-bottom: 20px;
+
+}
+
+.book {
+    text-align: center;
+    background-color: #ffe44e;
+    padding: 0px 0px;
+    border-radius: 10px;
+    transition: 0.8s ease;
+    color: black;
+}
+
+.book:hover {
+    text-align: center;
+    background-color: rgb(94, 13, 13);
+    border-radius: 10px;
+    color: white;
+    margin-top: 10px;
+}
+
+.book h1 {
+    font-size: 30px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+
+.book h3 {
+    text-transform: capitalize;
+    font-size: 18px;
+    margin-bottom: 20px;
+
+}
+
+.book h5 {
+    text-transform: capitalize;
+    margin-bottom: 20px;
+
+}
+
+.div1 {
+    background-color: rgb(0, 0, 0);
+    height: 50px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    margin-bottom: 80px;
+
+}
+
+.div2 {
+    background-color: rgb(0, 0, 0);
+    height: 50px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    margin-top: 80px;
+}
+
+
+/*******************************
+******************** MainPage Css start ******************************
+*********************/
+/*========== Banner image start ==========*/
+
+
+.top-banner {
+    width: 100%;
+    background-image: url('./img/test2.jpg');
+    background-size: cover;
+    height: 100vh;
+    padding: 16.875rem 0 9.375rem;
+    position: center;
+}
+
+.top-banner h1 {
+    margin-left: 100px;
+    margin-top: 50px;
+    color: rgb(206, 195, 195);
+}
+
+.line {
+    /* height: 12px; */
+    margin-left: 102px;
+    width: 230px;
+    color: white;
+}
+
+.line2 {
+    /* height: 12px; */
+    margin-left: 330px;
+    margin-top: -21px;
+    width: 132px;
+    color: white;
+}
+
+.icon {
+    border: 1px solid rgb(206, 195, 195);
+    font-size: 50px;
+    /* margin-left: 10px; */
+    padding: 50px;
+    color: rgb(206, 195, 195);
+    margin-top: -120px;
+    /* margin-left: 30px; */
+}
+
+.icon:hover {
+    background-color: black;
+    color: white;
+}
+
+.icon1 {
+    border: 1px solid rgb(206, 195, 195);
+    font-size: 50px;
+    /* margin-left: 10px; */
+    padding: 50px;
+    color: rgb(206, 195, 195);
+    margin-top: -120px;
+    /* margin-left: 30px; */
+}
+
+.icon1:hover {
+    background-color: black;
+    color: white;
+}
+
+.icon2 {
+    border: 1px solid rgb(206, 195, 195);
+    font-size: 50px;
+    /* margin-left: 10px; */
+    padding: 50px;
+    color: rgb(206, 195, 195);
+    margin-top: 20px;
+    /* margin-left: 30px; */
+}
+
+.icon2:hover {
+    background-color: black;
+    color: white;
+}
+
+.icon3 {
+    border: 1px solid rgb(206, 195, 195);
+    font-size: 50px;
+    /* margin-left: 10px; */
+    padding: 50px;
+    color: rgb(206, 195, 195);
+    margin-top: 20px;
+    /* margin-left: 30px; */
+}
+
+.icon3:hover {
+    background-color: black;
+    color: white;
+}
+
+/*========== Banner image end ==========*/
+/*******************************
+******************** MainPage Css end ******************************
+*********************/
+/*******************************
+******************** PaperGernatePage Css end ******************************
+*********************/
+
+.paperPage {
+    margin-top: 30px;
+}
+
+.mainheading {
+    text-align: center;
+    border: 5px dotted grey;
+}
+
+.table th {
+    border: 2px solid rgb(219, 219, 219);
+}
+
+.table tr td {
+    border: 0.5px solid rgb(240, 240, 240);
+    padding: 2px;
+
+}
+
+.logoss table td {
+    border: none;
+
+    height: 120px;
+
+}
+
+.tabless {
+    border: 2px solid black;
+}
+
+.logoss h1 {
+
+    text-align: center;
+    text-transform: uppercase;
+    color: #c8c8c8;
+    margin-top: 65px;
+}
+
+.quesbtn {
+    background-color: #000000;
+    width: 200px;
+    margin-bottom: 10px;
+    padding: 20px 20px;
+}
+
+.dropbtn {
+    background-color: #000000;
+    color: white;
+    transition: 0.8s ease;
+}
+
+.quesbtn:hover {
+    background-color: #000000;
+    width: 200px;
+    color: white;
+
+}
+
+.allbutton {
+    background-color: black;
+    width: 320px;
+    text-align: center;
+    padding-top: 6px;
+    padding-bottom: 10px;
+    margin-left: 16px;
+    color: white;
+    transition: 0.8s ease;
+}
+
+.allbutton:hover {
+    background-color: rgb(168, 168, 168);
+
+}
+
+.allbutton a {
+    color: white;
+}
+
+.allbutton a {
+    color: white;
+}
+
+/* .datatable {
+    padding: 0px 10px;
+    background-image: url('./assets/img/watermark.png');
+    /* background-size: cover; */
+    /* background-repeat: no-repeat; */
+    /* background-size: 400px; */
+    /* position: absolute; */
+    /* background-position: 330px; */
+    /* opacity: 0.4; */
+    /* height: 300px; */
+/* } */ */
+
+
+.unitsect {
+    border-right: 2px solid black;
+}
+
+.bookimg img {
+    height: 150px;
+    width: 120px;
+}
+
+/* form inert */
+
+.ourform {
+    margin-top: 30px;
+}
+
+.ourform div {
+    margin-top: 30px;
+}
+
+.ourform label {
+    font-size: medium;
+    color: black;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+
+.ourform input {
+    /* background-color: black; */
+    color: black;
+    padding: 7px;
+}
+
+.ourform select {
+    /* background-color: black; */
+    color: rgb(0, 0, 0);
+    padding: 7px;
+    width: 250px;
+}
+
+.mcqsTabel {
+    margin-top: 20px;
+    height: 500px;
+    overflow: auto;
+    /* background-color: #ffe44e; */
+}
+
+#chpstyle {
+    background-color: #e6e6e6;
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-left: 13px;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.tableboderless th {
+    border: none;
+}
+
+.tableboderless td {
+    border: none;
+}
+
+.papername {
+    /* border: 1px solid rgb(165, 165, 165); */
+    padding: 10px;
+    border-left: none;
+    border-right: none;
+}
+.mainTable{
+    border-left: 2px solid #ECECEC;
+    border-right: 2px solid #ECECEC;
+}
+.papername h4 {
+    padding: 0.5rem 0.5rem 0.5rem 0.5rem;
+    font-size: 15px;
+    text-transform: capitalize;
+    /* padding-right: 21rem; */
+    border: 1px solid rgb(165, 165, 165);
+}
+
+.papername span {
+    /* padding: 20px; */
+    font-size: 15px;
+    padding-right: 22rem;
+    text-transform: capitalize;
+    /* border-left: 2px solid rgb(165, 165, 165); */
+}
+.allbuttonsss{
+    margin-left: 100px;
+}
+.contentset{
+    padding-left:2px ;
+}
+.contentset2{
+    padding-left:70px ;
+}
+.mainTable2{
+    border: 2px solid #ECECEC ;
+
+padding:20px 0px ;
+}
+/*******************************
+******************** PaperGernatePage Css end ******************************
+*********************/
+/*******************************
+******************** PaperPage Css start ******************************
+*********************/
+
+
+.mainpaper {
+    margin-top: 50px;
+    padding: 0px 50px;
+}
+
+.papers {
+    text-align: center;
+    /* background-color: #c8c8c8; */
+    padding: 20px;
+}
+.subpaper{
+    border-radius: 5px;
+    box-sizing: border-box;
+    padding: 70px 10px;
+    background-color: #c8c8c8;
+}
+.icons{
+    padding-left: 70px;
+    padding-top: 50px;
+}
+.subpaper i{
+    /* padding: 100px 10px; */
+color: #645353;    
+margin: 0px 10px;
+font-size: larger;
+}
+.subpaper i:hover{
+    /* padding: 100px 10px; */
+color: #000000;    
+margin: 0px 10px;
+font-size: larger;
+}
+.subpaper h2{
+    text-transform: capitalize;
+    color: #000000;
+    font-size: 22px;
+}
+.subpaper h3{
+    text-transform: capitalize;
+    color: #000000;
+    font-size: 20px;
+}
+.subpaper span{
+    text-transform: capitalize;
+    color: #000000;
+    font-size: 20px;
+}
+
+/*******************************
+********************  PaperPage Css end ******************************
+*********************/
+
+
+********************  Login Page Css Start ******************************
+*********************/
+
+.demo-wrapper {
+    padding: 100px 0; }
+  
+  .demo-section {
+    padding-top: 50px;
+    padding-bottom: 50px; }
+  
+  .demo-section-title {
+    margin-bottom: 35px; }
+  
+  .color-label-box {
+    height: 60px;
+    width: 140px;
+    display: inline-block;
+    border-radius: 4px; }
+    .color-label-box.bg-white {
+      border: 1px solid #e9ecf1; }
+  
+  .unplug-ui-kit-demo .color-label-box {
+    margin-right: 20px;
+    margin-bottom: 25px; }
+    .unplug-ui-kit-demo .color-label-box:last-child {
+      margin-right: 0; }
+  
+  .unplug-ui-kit-demo .btn {
+    margin-bottom: 4px; }
+    .unplug-ui-kit-demo .btn + .btn {
+      margin-left: 5px; }
+    .unplug-ui-kit-demo .btn + .btn[class$="block"] {
+      margin-left: 0; }
+  
+  .unplug-ui-kit-demo .badge {
+    margin-bottom: 4px; }
+    .unplug-ui-kit-demo .badge + .badge {
+      margin-left: 20px; }
+  
+  @media (min-width: 992px) {
+    .landing-top-section {
+      position: relative;
+      left: -60px; } }
+  
+  .product-landing-header {
+    padding-bottom: 125px; }
+    .product-landing-header .header-content {
+      padding-top: 95px;
+      padding-bottom: 175px;
+      min-height: auto; }
+      .product-landing-header .header-content h1 {
+        font-size: 110px;
+        color: rgba(255, 255, 255, 0.6);
+        line-height: normal;
+        font-weight: 900; }
+        @media (max-width: 576px) {
+          .product-landing-header .header-content h1 {
+            font-size: 55px; } }
+      .product-landing-header .header-content p {
+        color: #ffffff;
+        font-size: 26px;
+        line-height: 1.43; }
+  
+  .example-page-link {
+    position: relative;
+    display: block;
+    margin-top: 15px;
+    margin-bottom: 15px; }
+    .example-page-link::before {
+      content: "\F3CC";
+      font-family: "Material design icons";
+      position: absolute;
+      left: 0;
+      right: 0;
+      top: 0;
+      bottom: 0;
+      opacity: 0;
+      background-color: rgba(0, 0, 0, 0.4);
+      -webkit-transition: opacity 0.4s ease-in-out;
+      transition: opacity 0.4s ease-in-out;
+      font-size: 1.75rem;
+      color: #fff;
+      display: -webkit-box;
+      display: flex;
+      -webkit-box-align: center;
+              align-items: center;
+      -webkit-box-pack: center;
+              justify-content: center; }
+    .example-page-link:hover::before {
+      opacity: 1; }
+    .example-page-link img {
+      box-shadow: 0 2px 30px 0 rgba(0, 0, 0, 0.09); }
+  
+  /*# sourceMappingURL=unplug-ui-kit-demo.css.map */
+  
+/*******************************
+********************  Login Page Css end ******************************
+*********************/
+/*******************************
+********************  Fix Css using media query start ******************************
+*********************/
+
+
+.watermark{
+    background-image: url('./assets/img/watermark.png');
+    background-repeat: no-repeat;
+
+    background-size: cover;
+}
+@page  
+{ 
+    size: A4;   /* auto is the initial value */ 
+    /* this affects the margin in the printer settings */ 
+    margin: 0mm 10mm 20mm 10mm;  
+    
+    
+}
+@media print {
+    .datatable{
+        /* background-image: url('./assets/img/watermark.png'); */
+        content: url('./assets/img/watermark.png');
+        width: 500px;
+        height: 500px;
+        position: absolute;
+        top: 500px;
+        left: 200px;
+    }
+    /* table { 
+        
+    } */
+  }
+
+
+
+/*******************************
+********************  Fix Css using media query end ******************************
+*********************/
+
+
+
+/* class csss */
+.main1 {
+    /* background-color: aqua; */
+    padding: 10px;
+}
+.book {
+    text-align: center;
+    background-color: #ffe44e;
+    padding: 0px 0px;
+    border-radius: 10px;
+    transition: 0.8s ease;
+    color: black;
+}
+.div1 {
+    background-color: rgb(0, 0, 0);
+    height: 50px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    margin-bottom: 80px;
+}
+.book h1 {
+    font-size: 30px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
